@@ -1,5 +1,5 @@
-<a name=""></a>
-#  (2018-07-13)
+<a name="0.1.0"></a>
+# 0.1.0 (2018-07-13)
 
 
 ### Bug Fixes
@@ -15,9 +15,12 @@
 
 
 <a name="0.0.1"></a>
-## [0.0.1](https://github.com/cfriaszapater/conventional-changelog-test/compare/e6a8994...0.0.1) (2018-07-13)
+## 0.0.1 (2018-07-13)
 
 
 ### Features
 
 * new line ([e6a8994](https://github.com/cfriaszapater/conventional-changelog-test/commit/e6a8994))
+
+
+
